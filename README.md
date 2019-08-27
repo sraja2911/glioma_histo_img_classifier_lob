@@ -1,3 +1,4 @@
-glioma_histo_img_classifier_lob
+Glioma WSI slides classification repository
 
-SIFT image features extraction and comparison for set of images
+Haralick Images feature extraction using GLCM and marginal distribution of GLCM (modified version of Histomicstk function)
+SVM classifier
